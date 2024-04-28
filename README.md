@@ -1,4 +1,4 @@
-### Django CRM
+### Django CRM Web Application
 
 A simple CRM web application built using the Python Django web framework.
 
